@@ -1,0 +1,1 @@
+{"description":"STARSLING — a gravity-slingshot arcade game. Reference build for The $65K Web Game Contest (Base44 x Nitro by Overwolf). Zero dependencies, pure HTML/CSS/JS.","license":"MIT","name":"starsling","private":true,"scripts":{"serve":"npx -y serve game -l 3000","test":"node --test tests/*.test.js"},"type":"module","version":"1.0.0"}
