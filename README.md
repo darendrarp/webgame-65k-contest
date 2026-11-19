@@ -8,7 +8,8 @@ around planets, collect every star shard, and dive through the gate.
 12 hand-designed levels, combo scoring, a Perfect Orbit bonus, drifting
 asteroids, synthesized sound — free, no login, no download.
 
-- **Play the reference demo:** TODO — demo URL (Vercel) after deploy
+- **Play the reference demo:** https://starsling-65k-contest.vercel.app
+- **Repo:** https://github.com/darendrarp/webgame-65k-contest
 - **Contest deadline:** 3 Dec 2026, 23:59 UTC (4 Dec 2026, 06:59 WIB)
 - **The submission** is the Base44 build at a `*.base44.app` URL (see below)
 

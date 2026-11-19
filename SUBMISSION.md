@@ -52,8 +52,8 @@
 
 - Contest page: https://nitropay.com/base44webgame/
 - Terms & Conditions: https://nitropay.com/base44webgame/terms-and-conditions/
-- Reference implementation (design proof, MIT): TODO — repo URL after push
-- Reference demo (playable): TODO — demo URL after deploy
+- Reference implementation (design proof, MIT): https://github.com/darendrarp/webgame-65k-contest
+- Reference demo (playable): https://starsling-65k-contest.vercel.app
 - Base44 build (THE SUBMISSION): TODO — *.base44.app URL after publish
 
 ## Prizes (verified from the contest page + T&C §9.1)
